@@ -72,17 +72,17 @@ video {
 
   <a href="#filme1" class="card">
     <img src="https://upload.wikimedia.org/wikipedia/pt/6/6e/Harry_Potter_e_a_C%C3%A2mara_Secreta.jpg">
-    <h3>Câmara Secreta</h3>
+    <h3>Harry Potter e a Câmara Secreta</h3>
   </a>
 
   <a href="#filme2" class="card">
     <img src="https://upload.wikimedia.org/wikipedia/pt/4/4a/Harry_Potter_e_o_Prisioneiro_de_Azkaban.jpg">
-    <h3>Prisioneiro de Azkaban</h3>
+    <h3>Harry Potter e o Prisioneiro de Azkaban</h3>
   </a>
 
   <a href="#filme3" class="card">
     <img src="https://upload.wikimedia.org/wikipedia/pt/7/7a/Harry_Potter_e_o_C%C3%A1lice_de_Fogo.jpg">
-    <h3>Cálice de Fogo</h3>
+    <h3>Harry Potter e o Cálice de Fogo</h3>
   </a>
 
 </div>
