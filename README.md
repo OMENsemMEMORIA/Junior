@@ -1,5 +1,3 @@
-# Junior
-Filmes piratas pro rave
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -23,24 +21,25 @@ header {
 .movie {
   padding: 15px;
 }
-video, iframe {
+video {
   width: 100%;
   height: 220px;
   border-radius: 8px;
-  border: none;
+  background: black;
 }
 </style>
 </head>
 
 <body>
 
-<header>🎬 Filmes para assistir no Rave</header>
+<header>🎬 Filme de Teste no Rave</header>
 
 <div class="movie">
-<h3>Filme Exemplo</h3>
-<video controls>
-<source src="https://SEU-LINK.mp4" type="video/mp4">
-</video>
+  <h3>Big Buck Bunny (Teste)</h3>
+  <video controls>
+    <source src="https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" type="video/mp4">
+    Seu navegador não suporta vídeo.
+  </video>
 </div>
 
 </body>
